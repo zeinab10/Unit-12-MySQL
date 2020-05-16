@@ -1,0 +1,22 @@
+{
+  "name": "mysqlemployeetracker",
+  "version": "1.0.0",
+  "description": "Unit 12 MySQL Homework: Employee Tracker Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as Content Management Systems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeinab10/Unit-12-MySQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeinab10/Unit-12-MySQL/issues"
+  },
+  "homepage": "https://github.com/zeinab10/Unit-12-MySQL#readme",
+  "dependencies": {
+    "node": "^14.2.0"
+  }
+}
